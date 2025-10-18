@@ -1,0 +1,15 @@
+ollama
+PyPDF2
+pymupdf
+transformers
+datasets
+sentence-transformers
+tiktoken
+chromadb
+bert-score
+numpy
+scipy
+rank_bm25
+huggingface_hub
+sentencepiece
+accelerate
