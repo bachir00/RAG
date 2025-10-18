@@ -1,0 +1,10 @@
+*.txt
+*.csv
+chroma_db/
+flan-t5-qa/
+ollama/
+data/
+dataset2/
+__pycache__/
+.venv/
+*.log
